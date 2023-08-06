@@ -1,0 +1,27 @@
+body{
+text-align: center;
+background-image:url("https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2545.jpg") ;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+p{
+font-size: 25px;
+}
+
+button{
+color: blue;
+font-size: 22px;
+border-radius: 60px;
+}
+
+#camera,#selfie{
+width: 400px;
+height: 400px;
+border-style: ridge;
+border-width: 3px;
+border-color: black;
+
+}
+
